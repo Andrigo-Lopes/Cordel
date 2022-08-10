@@ -19,7 +19,7 @@ body,html{
     
 }
 header{
-    background-color: black;
+    background-image: linear-gradient(to bottom,rgba(255, 0, 0, 0.466),rgba(0, 0, 255, 0.479),black);
     color: aliceblue;
     text-align: center;
 
