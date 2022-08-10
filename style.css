@@ -26,6 +26,7 @@ header{
 header > h1{
     padding: 50px;
     font-variant: small-caps;
+    font-family: var(--font2);
 }
 header > p{
     padding-bottom: 25px;
