@@ -50,7 +50,7 @@ section.normal{
     color: black;
 }
 section.imagem{
-    background-color: black;
+    background-color: rgb(163, 17, 17);
     color: aliceblue;
 }
 section.imagem>p{
