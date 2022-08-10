@@ -44,13 +44,14 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 25px;
+    font-family: var(--font3);
 }
 section.normal{
     background-color: rgb(255, 255, 255);
     color: black;
 }
 section.imagem{
-    background-color: rgb(163, 17, 17);
+    background-color: black;
     color: aliceblue;
 }
 section.imagem>p{
